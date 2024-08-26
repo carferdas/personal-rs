@@ -4,4 +4,4 @@ port = 9000
 
 [release]
 address = "0.0.0.0"
-port = 80
+port = 8080
